@@ -176,7 +176,8 @@ let welc = `
 Script My Bot : https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg`
 let lef = 
 `❖━━━[ *나중에 봐요* ]━━━❖
-𝚂𝚊𝚢𝚘𝚗𝚊𝚛𝚊𝚊 *@user* 👋😃`
+𝚂𝚊𝚢𝚘𝚗𝚊𝚛𝚊𝚊 *@user* 👋😃
+𝚃𝚎𝚛𝚒𝚖𝚊 𝙺𝚊𝚜𝚒𝚑 𝚂𝚞𝚍𝚊𝚑 𝙹𝚘𝚒𝚗 𝙳𝚒 𝙶𝚛𝚞𝚋 𝙸𝚗𝚒`
 
   conn.welcome = welc
   conn.bye = lef
