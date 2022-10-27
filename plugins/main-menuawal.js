@@ -107,8 +107,8 @@ let but1 = ('All Menu')
 let id1 = '.? all'
 let but2 = ('List Menu') 
 let id2 = '.tesm'
-let but3 = ('Sewabot') 
-let id3 = '.sewa'
+let but3 = ('-') 
+let id3 = '-'
 let konten = (`*${ucapan()}, ${tag} 👋*, ${kata}`)
 let knnt = `
 *『 ɪɴᴛʀᴏᴅᴜᴄᴛɪᴏɴ 』* 
