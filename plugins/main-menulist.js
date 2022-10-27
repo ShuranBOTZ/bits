@@ -73,7 +73,6 @@ if (teks == 'all') tags = {
 'berita': 'Berita',
 'database': 'Database',
 'quran': 'Al Qur\'an',
-'owner': 'Owner',
 'host': 'Host',
 'advanced': 'Advanced',
 'info': 'Info',
