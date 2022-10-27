@@ -214,11 +214,35 @@ var effects = [
     "title": "AspookyHalloween",
     "url": "https://textpro.me/create-a-spooky-halloween-text-effect-online-1046.html"
   },
-    {
+  {
+     "title": "Glitch",
+    "url": "https://textpro.me/create-impressive-glitch-text-effects-online-1027.html"
+  },
+  {
+   "title": "lightglicth",
+   "url": "https://textpro.me/neon-light-glitch-text-generator-online-1063.html"
+  },
+  {
+   "title": "GlowSliced",
+   "url": "https://textpro.me/create-light-glow-sliced-text-effect-online-1068.html"
+  },
+  {
+    "title": "A-metalic",
+    "url": "https://textpro.me/create-a-metallic-text-effect-free-online-1041.htmll"
+  },
+  {
+   "title": "blue-sircuit",
+   "url": "https://textpro.me/create-blue-circuit-style-text-effect-online-1043.html"
+  },
+  {
+   "title": "Helloween",
+   "url": "https://textpro.me/create-scary-halloween-text-effects-online-1090.html"
+  },
+  {    
     "title": "Avatargold",
     "url": "https://textpro.me/create-avatar-gold-online-956.html"
   },
-   {
+  {
     "title": "Bagel",
     "url": "https://textpro.me/bagel-text-effect-857.html"
   },
