@@ -66,7 +66,7 @@ let name = await conn.getName(who)
     sourceUrl: sgc
      }}
   })*/
- conn.send3ButtonImg(m.chat, result.data, `Effect *${effect}nya* Dah Jadi ${tag}`,`Subs My Channel ${global.snh}`, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', global.fkontak, { contextInfo: { externalAdReply: { showAdAttribution: true,
+ conn.send3ButtonImg(m.chat, result.data, `Effect *${effect}nya* Dah Jadi ${tag}`,`𒈞sнuʀᴀɴʙoтz𒈞 ${global.snh}`, 'Menu', '.menu', 'Owner', '.owner', global.fkontak, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: sgc,
     mediaType: 2, 
     description: sgc,
